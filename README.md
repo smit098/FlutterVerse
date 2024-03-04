@@ -24,11 +24,16 @@ Effortlessly manage and monitor your finances with the Expense Tracker app. This
 
 ## ScreenShots
 
-![Screenshot](/path/to/screenshot.png)
-
-Dark Theme
-C:\Users\smitk\OneDrive\Pictures\Screenshots\9.png
-C:\Users\smitk\OneDrive\Pictures\Screenshots\10.png
+![Screenshot](C:\Users\smitk\OneDrive\Pictures\Screenshots\1.png)
+![Screenshot](C:\Users\smitk\OneDrive\Pictures\Screenshots\2.png)
+![Screenshot](C:\Users\smitk\OneDrive\Pictures\Screenshots\3.png)
+![Screenshot](C:\Users\smitk\OneDrive\Pictures\Screenshots\4.png)
+![Screenshot](C:\Users\smitk\OneDrive\Pictures\Screenshots\5.png)
+![Screenshot](C:\Users\smitk\OneDrive\Pictures\Screenshots\6.png)
+![Screenshot](C:\Users\smitk\OneDrive\Pictures\Screenshots\7.png)
+![Screenshot](C:\Users\smitk\OneDrive\Pictures\Screenshots\8.png)
+![Screenshot](C:\Users\smitk\OneDrive\Pictures\Screenshots\9.png)
+![Screenshot](C:\Users\smitk\OneDrive\Pictures\Screenshots\10.png)
 
 
 Whether you're looking to budget more effectively, save for a specific goal, or simply gain a clearer understanding of your financial habits, the Expense Tracker app is your go-to solution.
