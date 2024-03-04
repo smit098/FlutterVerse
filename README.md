@@ -24,15 +24,7 @@ Effortlessly manage and monitor your finances with the Expense Tracker app. This
 
 ## ScreenShots
 
-Light Theme
-C:\Users\smitk\OneDrive\Pictures\Screenshots\1.png
-C:\Users\smitk\OneDrive\Pictures\Screenshots\2.png
-C:\Users\smitk\OneDrive\Pictures\Screenshots\3.png
-C:\Users\smitk\OneDrive\Pictures\Screenshots\4.png
-C:\Users\smitk\OneDrive\Pictures\Screenshots\5.png
-C:\Users\smitk\OneDrive\Pictures\Screenshots\6.png
-C:\Users\smitk\OneDrive\Pictures\Screenshots\7.png
-C:\Users\smitk\OneDrive\Pictures\Screenshots\8.png
+![Screenshot](/path/to/screenshot.png)
 
 Dark Theme
 C:\Users\smitk\OneDrive\Pictures\Screenshots\9.png
