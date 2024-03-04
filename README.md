@@ -22,15 +22,23 @@ Effortlessly manage and monitor your finances with the Expense Tracker app. This
 2. Add your expenses and categorize them accordingly.
 3. Explore the interactive charts to gain insights into your spending habits.
 
-![Expense Tracker App](/path/to/screenshot.png)
+## ScreenShots
 
-## Live Demo
+Light Theme
+C:\Users\smitk\OneDrive\Pictures\Screenshots\1.png
+C:\Users\smitk\OneDrive\Pictures\Screenshots\2.png
+C:\Users\smitk\OneDrive\Pictures\Screenshots\3.png
+C:\Users\smitk\OneDrive\Pictures\Screenshots\4.png
+C:\Users\smitk\OneDrive\Pictures\Screenshots\5.png
+C:\Users\smitk\OneDrive\Pictures\Screenshots\6.png
+C:\Users\smitk\OneDrive\Pictures\Screenshots\7.png
+C:\Users\smitk\OneDrive\Pictures\Screenshots\8.png
 
-Experience the app in action with our live demo [here](https://your-live-demo-url.com).
+Dark Theme
+C:\Users\smitk\OneDrive\Pictures\Screenshots\9.png
+C:\Users\smitk\OneDrive\Pictures\Screenshots\10.png
+
 
 Whether you're looking to budget more effectively, save for a specific goal, or simply gain a clearer understanding of your financial habits, the Expense Tracker app is your go-to solution.
 
----
-
-**Note:** Feel free to customize this template according to the specific features and details of your Expense Tracker app. Add additional sections if needed, such as "Contributing," "License," or "Acknowledgements."
  
